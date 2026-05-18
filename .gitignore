@@ -7,3 +7,5 @@ terraform.tfstate.*
 function-app/.python_packages/
 function-app/.venv/
 function-app/local.settings.json
+__pycache__/
+*.pyc
