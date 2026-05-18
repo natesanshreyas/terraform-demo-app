@@ -1,0 +1,9 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+*.tfvars
+
+function-app/.python_packages/
+function-app/.venv/
+function-app/local.settings.json

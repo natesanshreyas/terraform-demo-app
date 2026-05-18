@@ -1,0 +1,4 @@
+azure-functions==1.21.3
+azure-storage-blob==12.23.1
+azure-storage-queue==12.10.0
+requests==2.32.3
